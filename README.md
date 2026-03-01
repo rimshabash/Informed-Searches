@@ -66,7 +66,7 @@ h(n) = √((x1 - x2)^2 + (y1 - y2)^2)
 More accurate when diagonal movement is allowed.
 ## Installation
 ### Clone the Repository
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Rimsha/Informed Searches.git
 cd your-repository-name
 
 ### Install Dependencies
